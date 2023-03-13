@@ -65,3 +65,15 @@ Add configurations to file : WEB-INF/spring-mvc-demo-servlet.xml
 		<property name="prefix" value="/WEB-INF/view/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
+
+
+**Spring MVC development Process steps**
+1. Create controller class
+2. Define controller method
+3. Add request mapping to controller method
+4. return view name
+5. develop view page
+
+
+
+
